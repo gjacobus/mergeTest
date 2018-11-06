@@ -1,4 +1,4 @@
-dhello world this is the first line
+hello world this is the first line
 this is text from the feature branch
 this is text from master branch
 this is to see if local changes stay
