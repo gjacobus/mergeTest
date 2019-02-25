@@ -1,2 +1,2 @@
 this is the text for the feature branch
-this is to test the commit author again
+his is to test the commit author again
