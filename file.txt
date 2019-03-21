@@ -1,4 +1,3 @@
 this is the text for the feature branch
-his is to test the commit author again
-another test
-new changes from master
+
+new text from master
